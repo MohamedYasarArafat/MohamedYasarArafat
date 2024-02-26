@@ -1,16 +1,19 @@
 <h1 align="center">Hi, I'm Mohamed Yasar Arafat</h1>
-<h3 align="center">I'm a Passionate Frontend Developer from India.</h3>
+<h3 align="center">An enthusiastic front-end developer hailing from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **PTW**.
+- 🔭 I’m currently working on **HRMS,Candidate Portal**.
   
 - 🌱 I’m currently learning **node js**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
 - 📫 How to reach me: **yasar.ben@gmail.com**.
+
+- 👨‍💻 All of my projects are available at **https://github.com/MohamedYasarArafat/Yasar-Portfolio**.
+
 
 ## 🚀 Languages and Tools:
 
