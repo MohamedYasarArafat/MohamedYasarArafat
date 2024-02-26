@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Yasar Arafat</h1>
-<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
+<h3 align="center">I'm a Passionate Frontend Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
