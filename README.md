@@ -23,6 +23,13 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vscode.ong"/> </a>
+</p>
+
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/yasar-arafath-64b4b0293/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
