@@ -1,12 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Mohamed Yasar Arafat</h1>
+<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
 
-<!--
-**MohamedYasarArafat/MohamedYasarArafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on PTW.
-- 🌱 I’m currently learning node js.
-- 👯 I’m looking to collaborate on OpenSource Projects.
-- 📫 How to reach me: yasar.ben@gmail.com.
--->
+- 🔭 I’m currently working on **PTW**.
+  
+- 🌱 I’m currently learning **node js**.
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
+
+- 📫 How to reach me: **yasar.ben@gmail.com**.
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://babeljs.io/" target="_blank"> <img height="41px" src="https://img.icons8.com/dusk/64/000000/babel.png"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vscode.ong"/> </a>
+</p>
+
