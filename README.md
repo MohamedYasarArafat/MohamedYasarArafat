@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MohamedYasarArafat</h1>
 <h3 align="center">An enthusiastic front-end developer hailing from India.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** and **Electron.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
